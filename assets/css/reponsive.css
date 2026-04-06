@@ -1,5 +1,8 @@
 /* PC */
 @media (min-width: 992px) {
+  .mobile-header__icon {
+    display: none;
+  }
 }
 
 /* Tablet and Mobile */
